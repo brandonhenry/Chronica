@@ -16,7 +16,7 @@ For simplification, we decided to use the Acquia AMP stack to test and develop t
 
 
 
-![Acquia Info](C:\Users\itsbh\Documents\GitHub\Chronica\Doc\Images\Acquia Info.png)
+![Acquia Info](Doc\Images\Acquia Info.png)
 
 
 
@@ -66,4 +66,4 @@ When selecting a folder, make sure to select the **web** folder and change the *
 
 
 
-![Acquia Setup](C:\Users\itsbh\Documents\GitHub\Chronica\Doc\Images\Acquia Setup.png)
+![Acquia Setup](Doc\Images\Acquia Setup.png)
