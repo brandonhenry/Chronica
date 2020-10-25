@@ -67,3 +67,17 @@ When selecting a folder, make sure to select the **web** folder and change the *
 
 
 ![Acquia Setup](Doc\Images\Acquia Setup.png)
+
+Once the Drupal site has been hosted locally, simply visit the local website and follow the Drupal installation process.
+
+
+
+#### Login Information
+
+To login to the Chronica website Drupal backend, use the following credentials:
+
+
+
+**Username: admin**
+
+**Password: superpass**
