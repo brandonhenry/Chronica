@@ -30,6 +30,7 @@ This document serves to outline the layout of data for each Chronica article ent
 * <u>**Field Type**</u>: String
 * <u>**Restraints**</u>: Max 150 characters
 
+
 ### Author
 <u>**Attribute name**</u>: author
 
