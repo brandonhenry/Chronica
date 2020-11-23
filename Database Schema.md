@@ -6,7 +6,7 @@ This document serves to outline the layout of data for each Chronica article ent
 
 ### Article ID
 
-<u>Attribute name</u>: article-id
+<u>*Attribute name*</u>: article-id
 
 <u>Description</u>: ID of the chronica article. Represents when the article was inserted into the database.
 
