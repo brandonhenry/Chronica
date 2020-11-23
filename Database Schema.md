@@ -19,7 +19,7 @@ This document serves to outline the layout of data for each Chronica article ent
 **<u>Description</u>**: Name of the Chronica article.
 
 * <u>**Field Type**</u>: String
-* <u>Restraints</u>: Alphanumeric characters
+* <u>**Restraints**</u>: Alphanumeric characters
 
 ### Short Description
 
@@ -28,7 +28,7 @@ This document serves to outline the layout of data for each Chronica article ent
 **<u>Description</u>**: Description of the Chronica article.
 
 * <u>**Field Type**</u>: String
-* <u>Restraints</u>: Max 150 characters
+* <u>**Restraints**</u>: Max 150 characters
 
 ### Author
 
