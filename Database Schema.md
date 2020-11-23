@@ -25,7 +25,7 @@ This document serves to outline the layout of data for each Chronica article ent
 
 <u>**Attribute name**</u>: short-desc
 
-<u>Description</u>: Description of the Chronica article.
+**<u>Description</u>**: Description of the Chronica article.
 
 * <u>**Field Type**</u>: String
 * <u>Restraints</u>: Max 150 characters
