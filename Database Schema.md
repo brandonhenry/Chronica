@@ -31,10 +31,28 @@ This document serves to outline the layout of data for each Chronica article ent
 * <u>**Restraints**</u>: Max 150 characters
 
 ### Author
+<u>**Attribute name**</u>: author
+
+**<u>Description</u>**: Name of the article's author.
+
+* <u>**Field Type**</u>: String
+* <u>**Restraints**</u>: Alphanumeric characters
 
 ### Chronicle
 
 ### Year Published
+<u>**Attribute name**</u>: year-pub
+
+**<u>Description</u>**: Year the article was published.
+
+* <u>**Field Type**</u>: Integer
+
 
 ### Location
+<u>**Attribute name**</u>: location
+
+**<u>Description</u>**: Where the article is physically located.
+
+* <u>**Field Type**</u>: String
+* <u>**Restraints**</u>: Max 150 characters
 
