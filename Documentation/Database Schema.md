@@ -41,15 +41,16 @@ This document serves to outline the layout of data for each Chronica article ent
 ### Year Published
 <u>**Attribute name**</u>: year-pub
 
-**<u>Description</u>**: Year the chronicle was published.
+**<u>Description</u>**: Year the chronicle was published. Includes Century and/or Circa.
 
-* <u>**Field Type**</u>: Integer
+* <u>**Field Type**</u>: String
+* <u>**Restraints**</u>: Max 150 characters
 
 
 ### Location
 <u>**Attribute name**</u>: location
 
-**<u>Description</u>**: Where the chronicle is physically located.
+**<u>Description</u>**: Where the chronicle is physically located. Include Country, City and Library.
 
 * <u>**Field Type**</u>: String
 * <u>**Restraints**</u>: Max 150 characters
